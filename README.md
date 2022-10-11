@@ -1,4 +1,4 @@
-- 👋 Olá ! Eu sou César Siqueira.
+👋 Olá ! Eu sou César Siqueira.
 
 Seja bem-vindo !
 
