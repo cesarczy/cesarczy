@@ -3,7 +3,7 @@
 
 Welcome !
 
-I really like technology, constant learner in programming languages, my favorites being Java, JavaScript and Python.
+I am seeking a challenging position as a programmer, where I can apply my development experience and skills. My objective is to contribute to the development of efficient technological solutions, collaborate in multidisciplinary teams, and continue learning and enhancing my technical skills in the IT field. I aim to work on innovative projects that drive company growth and provide opportunities for professional and personal development.
 
 <h3 align="center"> My contacts: </h3>
 
