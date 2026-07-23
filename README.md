@@ -2,10 +2,10 @@
 
 # 👋 Hi, I'm César Siqueira
 
-### Full Stack Developer • Python • Django • Angular • Java
+### Full Stack Developer • Python • FastAPI • Django • Angular • Java
 
 <p>
-Building scalable applications, learning new technologies and creating solutions that make people's lives easier.
+Passionate about building scalable applications, applying clean architecture principles, and creating solutions that solve real-world problems.
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=cesarczy&style=for-the-badge&color=blue" />
@@ -16,11 +16,18 @@ Building scalable applications, learning new technologies and creating solutions
 
 # 🚀 About Me
 
-💻 Full Stack Developer passionate about software development.
+💻 Full Stack Developer passionate about software engineering.
 
-🎯 Looking for opportunities to contribute to innovative projects while continuously improving my technical skills.
+🎯 I enjoy designing scalable systems, writing clean code, and building applications with modern architectures.
 
-🐧 Linux enthusiast and open-source supporter.
+📚 Currently improving my knowledge in:
+
+- 🎓 Computer Science
+- ⚙️ DevOps
+- ☁️ Distributed Systems
+- 🏛️ Software Architecture
+
+🚀 Always looking for new technologies and challenging projects.
 
 ---
 
@@ -29,13 +36,13 @@ Building scalable applications, learning new technologies and creating solutions
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,php,ts" />
+<img src="https://skillicons.dev/icons?i=python,java,ts" />
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=django,spring" />
+<img src="https://skillicons.dev/icons?i=fastapi,django,spring" />
 </p>
 
 ### Frontend
@@ -53,60 +60,51 @@ Building scalable applications, learning new technologies and creating solutions
 ### DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,git,linux,bash,ubuntu" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,bash" />
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,idea,postman" />
+<img src="https://skillicons.dev/icons?i=vscode,postman" />
+</p>
+
+### Software Architecture
+
+<p>
+<img src="https://img.shields.io/badge/Clean%20Architecture-20232A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DDD-Domain--Driven%20Design-blue?style=for-the-badge" />
 </p>
 
 ---
 
-# ⭐ Featured Projects
+# ⭐ Featured Project
 
 ## 🎮 GameParty
 
-A platform where gamers can find teammates for online games.
+A social platform designed to help gamers find teammates for online games.
 
 ### Features
 
 - 👥 Find teammates
 - 💬 Real-time chat
 - 🎮 Multiple game categories
-- 🔒 Authentication
 - 👤 User profiles
-- 🛡 Admin Dashboard
+- 🔒 Secure authentication
+- 📅 Event creation
+- ⭐ Reputation system
+- 🛡️ Administration panel
 
 ### Technologies
 
-- Django REST Framework
+- FastAPI
 - Angular
 - PostgreSQL
 - Docker
 - JWT Authentication
+- WebSocket
 
 > 🚧 Currently under development.
-
----
-
-## 🔐 Authentication API
-
-REST API with authentication and authorization using JWT.
-
-**Stack**
-
-- Django
-- Django REST Framework
-- PostgreSQL
-- Docker
-
----
-
-## 🌐 Portfolio
-
-Personal portfolio built to showcase projects and technologies.
 
 ---
 
@@ -142,6 +140,16 @@ Personal portfolio built to showcase projects and technologies.
 
 ---
 
+# 📈 GitHub Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cesarczy&theme=github-compact"/>
+
+</div>
+
+---
+
 # 📫 Contact
 
 <div align="center">
@@ -162,10 +170,26 @@ Personal portfolio built to showcase projects and technologies.
 
 ---
 
+# 🎯 Goals
+
+- 🚀 Build scalable web applications
+- 🏛️ Apply Clean Architecture and DDD
+- ☁️ Improve Cloud and DevOps skills
+- 🤝 Contribute to Open Source projects
+- 📚 Keep learning every day
+
+---
+
 <div align="center">
 
 ### 💡 Favorite Quote
 
-*"First, solve the problem. Then, write the code."* — John Johnson
+> **"First, solve the problem. Then, write the code."**
+>
+> *John Johnson*
+
+---
+
+⭐ If you like my projects, consider leaving a star!
 
 </div>
