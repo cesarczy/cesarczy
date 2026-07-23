@@ -20,12 +20,6 @@ Building scalable applications, learning new technologies and creating solutions
 
 🎯 Looking for opportunities to contribute to innovative projects while continuously improving my technical skills.
 
-📚 Currently studying:
-
-- 🎓 Computer Science
-- ⚙️ DevOps Engineering
-- 🌐 Distributed Networks
-
 🐧 Linux enthusiast and open-source supporter.
 
 ---
