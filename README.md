@@ -1,22 +1,177 @@
-<h1 align="center"> 👋 Hi, i'm César Siqueira</h1>
+<div align="center">
 
+# 👋 Hi, I'm César Siqueira
 
-Welcome !
+### Full Stack Developer • Python • Django • Angular • Java
 
-I am seeking a challenging position as a programmer, where I can apply my development experience and skills. My objective is to contribute to the development of efficient technological solutions, collaborate in multidisciplinary teams, and continue learning and enhancing my technical skills in the IT field. I aim to work on innovative projects that drive company growth and provide opportunities for professional and personal development.
+<p>
+Building scalable applications, learning new technologies and creating solutions that make people's lives easier.
+</p>
 
-<h3 align="center"> My contacts: </h3>
+<img src="https://komarev.com/ghpvc/?username=cesarczy&style=for-the-badge&color=blue" />
 
-<div align="center" dir="auto"> 
-  <a href="mailto:cesarczy@gmail.com"><img src="https://camo.githubusercontent.com/927d6b3961fa048ff7303daf291cb5869dfa25018997cf8c1373c2f6a85b1458/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d2532333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
-  <a href="https://www.linkedin.com/in/erlan-cesar-siqueira-da-silva/" rel="nofollow"><img src="https://camo.githubusercontent.com/c00f87aeebbec37f3ee0857cc4c20b21fefde8a96caf4744383ebfe44a47fe3f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d2532333030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a> 
 </div>
 
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarczy&layout=compact)
+# 🚀 About Me
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cesarczy)
+💻 Full Stack Developer passionate about software development.
 
+🎯 Looking for opportunities to contribute to innovative projects while continuously improving my technical skills.
 
+📚 Currently studying:
 
+- 🎓 Computer Science
+- ⚙️ DevOps Engineering
+- 🌐 Distributed Networks
 
+🐧 Linux enthusiast and open-source supporter.
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,php,ts" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,spring" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=angular,html,css,js" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</p>
+
+### DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,linux,bash,ubuntu" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,idea,postman" />
+</p>
+
+---
+
+# ⭐ Featured Projects
+
+## 🎮 GameParty
+
+A platform where gamers can find teammates for online games.
+
+### Features
+
+- 👥 Find teammates
+- 💬 Real-time chat
+- 🎮 Multiple game categories
+- 🔒 Authentication
+- 👤 User profiles
+- 🛡 Admin Dashboard
+
+### Technologies
+
+- Django REST Framework
+- Angular
+- PostgreSQL
+- Docker
+- JWT Authentication
+
+> 🚧 Currently under development.
+
+---
+
+## 🔐 Authentication API
+
+REST API with authentication and authorization using JWT.
+
+**Stack**
+
+- Django
+- Django REST Framework
+- PostgreSQL
+- Docker
+
+---
+
+## 🌐 Portfolio
+
+Personal portfolio built to showcase projects and technologies.
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cesarczy&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesarczy&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cesarczy&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=cesarczy&theme=onedark&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# 📫 Contact
+
+<div align="center">
+
+<a href="mailto:cesarczy@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/cesarczy">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/erlan-cesar-siqueira-da-silva/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Favorite Quote
+
+*"First, solve the problem. Then, write the code."* — John Johnson
+
+</div>
